@@ -1,5 +1,7 @@
+The purpose of this repo is just for myself to documenting a few common templates that I use for reference. Feel free to use/copy any of it if you find it useful. 
+
 # General
-- types of diagram
+- Types of diagram
     - `flowchart`
     - `classDiagram` [UML]: focus more on what each class can do. Typically used to show the structure of program.
     - `erDiagram`: focus more on relationship between concepts, less on what each concept can do. Typically used to show the structure of database
@@ -106,3 +108,8 @@ erDiagram
         String name
     }
 ```
+
+# Reference/useful links
+- [Arjancode - Mermaid JS: Finally There's A Great UML & Diagram Drawing Tool](https://www.youtube.com/watch?v=JiQmpA474BY)
+- [Mermaid official doc](https://mermaid.js.org/intro/)
+- [Mermaid live editor](https://mermaid.live/)
