@@ -82,8 +82,8 @@ classDiagram
         DEAD
         ALIVE
     }
-    Champion <|-- Yasuo
-    Champion <|-- Fizz
+    Champion <|-- Yasuo : inherit
+    Champion <|-- Fizz : inherit
     Match *--o Champion %% campaign cannot spawn without a match game but a match can be created without having any campaign
 
 ```
