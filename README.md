@@ -7,7 +7,7 @@
 
 - Shared syntax
     - `%%`: comments
-    
+
 # Mermaid flowchart template
 - Nodes
     - `[]`: facts?
@@ -105,4 +105,4 @@ erDiagram
         String id
         String name
     }
-```# mermaid-template
+```
